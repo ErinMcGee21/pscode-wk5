@@ -1,0 +1,45 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+num1 + num2 = sum
+print sum
+
+// Exercise 2: Check if a Number is Even or Odd
+
+ask for ni
+divide num by 2  (n1%2)
+If remainder = 0
+print even
+ELSE IF remainder is not equal to 0
+print odd
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+a) enter 5 numbers
+read n1,n2,n3,n4,n5
+
+b) calculate average (n1+n2+n3+n4+n5)/5
+print average
+
+c) small = n1
+large = n1
+for i = n2 to n5
+if n1 < ni then: ni = small
+print small
+if n1 > ni then: ni = large
+print large
+
+
+d) print average (average of all 5 numbers)
+
+print small (smallest number of all 5 numbers)
+print large (largest number of all 5 number)
+
+
+
+-- END --
